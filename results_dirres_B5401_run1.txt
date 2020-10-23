@@ -1,0 +1,18 @@
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2020-05-08 18:50:53.148845
+New run if 0; follow up run if 1 : 1
+
+B5401!!! Test AUC: 0.8842688888888889
+B5401 Test ACCURACY: 0.9870334
+B5401 Val1 acc: 0.981
+B5401 Val2 acc: 0.982
+B5401 Val3 acc: 0.986
+B5401 Avg. test ACC: 0.991043221950531
+2020-05-08 18:50:55.001130
+########### End of B5401 #######
+
+
+

@@ -1,0 +1,54 @@
+########### START of B1501 #######
+
+Test set: B1501
+Training complete!
+DATE: 2019-12-15 20:07:33.941351
+New run if 0; follow up run if 1 : 0
+
+B1501!!! Test AUC: 0.8637627627627628
+B1501 Test ACCURACY: 0.9921492
+B1501 Val1 acc: 0.989
+B1501 Val2 acc: 0.985
+B1501 Val3 acc: 0.986
+B1501 Avg. test ACC: 0.9885986250638962
+2019-12-15 20:07:35.773032
+########### End of B1501 #######
+
+
+
+########### START of B1501 #######
+
+Test set: B1501
+Training complete!
+DATE: 2019-12-15 20:53:28.299408
+New run if 0; follow up run if 1 : 0
+
+B1501!!! Test AUC: 0.958026026026026
+B1501 Test ACCURACY: 0.99273795
+B1501 Val1 acc: 0.992
+B1501 Val2 acc: 0.994
+B1501 Val3 acc: 0.994
+B1501 Avg. test ACC: 0.9886653596162795
+2019-12-15 20:53:30.127357
+########### End of B1501 #######
+
+
+
+########### START of B1501 #######
+
+Test set: B1501
+Training complete!
+DATE: 2019-12-17 10:40:01.158032
+New run if 0; follow up run if 1 : 0
+
+B1501!!! Test AUC: 0.9917577577577578
+B1501 Test ACCURACY: 0.99136406
+B1501 Val1 acc: 0.998
+B1501 Val2 acc: 0.992
+B1501 Val3 acc: 0.995
+B1501 Avg. test ACC: 0.9875152111053467
+2019-12-17 10:40:02.998289
+########### End of B1501 #######
+
+
+

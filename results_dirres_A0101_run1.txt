@@ -1,0 +1,36 @@
+########### START of A0101 #######
+
+Test set: A0101
+Training complete!
+DATE: 2019-12-10 17:03:28.462141
+New run if 0; follow up run if 1 : 1
+
+A0101!!! Test AUC: 0.9971188888888889
+A0101 Test ACCURACY: 0.9821212
+A0101 Val1 acc: 0.97
+A0101 Val2 acc: 0.99
+A0101 Val3 acc: 0.97
+A0101 Avg. test ACC: 0.9813000160455704
+2019-12-10 17:03:30.175028
+########### End of A0101 #######
+
+
+
+########### START of A0101 #######
+
+Test set: A0101
+Training complete!
+DATE: 2020-05-08 13:39:01.772104
+New run if 0; follow up run if 1 : 1
+
+A0101!!! Test AUC: 0.9968788888888889
+A0101 Test ACCURACY: 0.98242426
+A0101 Val1 acc: 0.975
+A0101 Val2 acc: 0.981
+A0101 Val3 acc: 0.977
+A0101 Avg. test ACC: 0.9809545624256134
+2020-05-08 13:39:03.627233
+########### End of A0101 #######
+
+
+

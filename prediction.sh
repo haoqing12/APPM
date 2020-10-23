@@ -1,0 +1,21 @@
+python script/prediction.py A0101
+python script/prediction.py A0201
+python script/prediction.py A0203
+python script/prediction.py A0207
+python script/prediction.py A0301
+python script/prediction.py A1101
+python script/prediction.py A2402
+python script/prediction.py A2902
+python script/prediction.py A3101
+python script/prediction.py A3201
+python script/prediction.py A6802
+python script/prediction.py B0702
+python script/prediction.py B1501
+python script/prediction.py B3501
+python script/prediction.py B4001
+python script/prediction.py B4402
+python script/prediction.py B4403
+python script/prediction.py B5101
+python script/prediction.py B5401
+python script/prediction.py B5701
+

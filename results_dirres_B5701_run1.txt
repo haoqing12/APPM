@@ -1,0 +1,15 @@
+########### START of B5701 #######
+
+Test set: B5701
+Training complete!
+DATE: 2019-11-19 11:54:56.138383
+New run if 0; follow up run if 1 : 1
+
+B5701!!! Test AUC: 0.982431950601712
+B5701 Test ACCURACY: 0.9918
+B5701 Val acc: 0.9908
+2019-11-19 11:54:56.443676
+########### End of B5701 #######
+
+
+

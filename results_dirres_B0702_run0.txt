@@ -1,0 +1,36 @@
+########### START of B0702 #######
+
+Test set: B0702
+Training complete!
+DATE: 2019-12-15 19:19:56.656091
+New run if 0; follow up run if 1 : 0
+
+B0702!!! Test AUC: 0.9775386821395224
+B0702 Test ACCURACY: 0.98792
+B0702 Val1 acc: 0.987
+B0702 Val2 acc: 0.996
+B0702 Val3 acc: 0.994
+B0702 Avg. test ACC: 0.9864703691005707
+2019-12-15 19:19:58.491655
+########### End of B0702 #######
+
+
+
+########### START of B0702 #######
+
+Test set: B0702
+Training complete!
+DATE: 2019-12-17 12:11:28.994846
+New run if 0; follow up run if 1 : 0
+
+B0702!!! Test AUC: 0.9981145791649992
+B0702 Test ACCURACY: 0.98999625
+B0702 Val1 acc: 0.995
+B0702 Val2 acc: 0.992
+B0702 Val3 acc: 0.993
+B0702 Avg. test ACC: 0.9863929796218872
+2019-12-17 12:11:30.835701
+########### End of B0702 #######
+
+
+

@@ -1,0 +1,54 @@
+########### START of A2902 #######
+
+Test set: A2902
+Training complete!
+DATE: 2019-11-26 16:05:41.885942
+New run if 0; follow up run if 1 : 0
+
+A2902!!! Test AUC: 0.9985755226484725
+A2902 Test ACCURACY: 0.9969512
+A2902 Val1 acc: 0.997
+A2902 Val2 acc: 0.9975
+A2902 Val3 acc: 0.9975
+A2902 Avg. test ACC: 0.9886177147250222
+2019-11-26 16:05:42.252486
+########### End of A2902 #######
+
+
+
+########### START of A2902 #######
+
+Test set: A2902
+Training complete!
+DATE: 2019-11-27 17:47:02.789783
+New run if 0; follow up run if 1 : 0
+
+A2902!!! Test AUC: 0.9986994186349748
+A2902 Test ACCURACY: 0.99715686
+A2902 Val1 acc: 0.9985
+A2902 Val2 acc: 0.996
+A2902 Val3 acc: 0.9975
+A2902 Avg. test ACC: 0.9894090923514679
+2019-11-27 17:47:03.165592
+########### End of A2902 #######
+
+
+
+########### START of A2902 #######
+
+Test set: A2902
+Training complete!
+DATE: 2019-12-12 22:54:13.572875
+New run if 0; follow up run if 1 : 0
+
+A2902!!! Test AUC: 0.9996666666666666
+A2902 Test ACCURACY: 0.99935484
+A2902 Val1 acc: 1.0
+A2902 Val2 acc: 0.998
+A2902 Val3 acc: 1.0
+A2902 Avg. test ACC: 0.976880656182766
+2019-12-12 22:54:15.329401
+########### End of A2902 #######
+
+
+

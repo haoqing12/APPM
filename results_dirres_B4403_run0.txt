@@ -1,0 +1,18 @@
+########### START of B4403 #######
+
+Test set: B4403
+Training complete!
+DATE: 2019-12-14 09:53:52.349018
+New run if 0; follow up run if 1 : 0
+
+B4403!!! Test AUC: 0.9963271090363455
+B4403 Test ACCURACY: 0.99257827
+B4403 Val1 acc: 0.991
+B4403 Val2 acc: 0.993
+B4403 Val3 acc: 0.992
+B4403 Avg. test ACC: 0.987134553194046
+2019-12-14 09:53:54.109609
+########### End of B4403 #######
+
+
+

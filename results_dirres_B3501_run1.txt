@@ -1,0 +1,18 @@
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2020-05-08 19:32:43.859377
+New run if 0; follow up run if 1 : 1
+
+B3501!!! Test AUC: 0.9061666666666666
+B3501 Test ACCURACY: 0.9867742
+B3501 Val1 acc: 0.994
+B3501 Val2 acc: 0.992
+B3501 Val3 acc: 0.994
+B3501 Avg. test ACC: 0.9869742053747177
+2020-05-08 19:32:45.636704
+########### End of B3501 #######
+
+
+

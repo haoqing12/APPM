@@ -1,0 +1,396 @@
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-11-26 16:57:03.465656
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9971458717349279
+A3101 Test ACCURACY: 0.9938517
+A3101 Val1 acc: 0.993
+A3101 Val2 acc: 0.993
+A3101 Val3 acc: 0.995
+A3101 Avg. test ACC: 0.9818574821576476
+2019-11-26 16:57:03.792469
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-12 23:36:49.781626
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9784533333333334
+A3101 Test ACCURACY: 0.9803226
+A3101 Val1 acc: 0.987
+A3101 Val2 acc: 0.988
+A3101 Val3 acc: 0.988
+A3101 Avg. test ACC: 0.9689677459001541
+2019-12-12 23:36:51.539476
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 13:45:11.734267
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9830533333333333
+A3101 Test ACCURACY: 0.97774196
+A3101 Val1 acc: 0.972
+A3101 Val2 acc: 0.976
+A3101 Val3 acc: 0.979
+A3101 Avg. test ACC: 0.9581161338090897
+2019-12-13 13:45:13.489255
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 14:08:49.486288
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9828083333333333
+A3101 Test ACCURACY: 0.97806454
+A3101 Val1 acc: 0.98
+A3101 Val2 acc: 0.982
+A3101 Val3 acc: 0.979
+A3101 Avg. test ACC: 0.9697774261236191
+2019-12-13 14:08:51.238130
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 14:37:19.487258
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9828083333333333
+A3101 Test ACCURACY: 0.97806454
+A3101 Val1 acc: 0.989
+A3101 Val2 acc: 0.984
+A3101 Val3 acc: 0.988
+A3101 Avg. test ACC: 0.9694161337614059
+2019-12-13 14:37:21.255536
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 14:57:24.049193
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9879033333333334
+A3101 Test ACCURACY: 0.9803226
+A3101 Val1 acc: 0.981
+A3101 Val2 acc: 0.99
+A3101 Val3 acc: 0.98
+A3101 Avg. test ACC: 0.9719709706306457
+2019-12-13 14:57:25.804508
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 15:20:03.516585
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9803900000000001
+A3101 Test ACCURACY: 0.98
+A3101 Val1 acc: 0.984
+A3101 Val2 acc: 0.979
+A3101 Val3 acc: 0.982
+A3101 Avg. test ACC: 0.9731064575910569
+2019-12-13 15:20:05.268448
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 16:29:36.091544
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9804350000000001
+A3101 Test ACCURACY: 0.97806454
+A3101 Val1 acc: 0.984
+A3101 Val2 acc: 0.975
+A3101 Val3 acc: 0.977
+A3101 Avg. test ACC: 0.9718193650245667
+2019-12-13 16:29:37.846113
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 17:24:42.998329
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.977525
+A3101 Test ACCURACY: 0.97806454
+A3101 Val1 acc: 0.981
+A3101 Val2 acc: 0.979
+A3101 Val3 acc: 0.974
+A3101 Avg. test ACC: 0.9752483993768692
+2019-12-13 17:24:44.753817
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 20:50:53.076753
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9828683333333332
+A3101 Test ACCURACY: 0.9787097
+A3101 Val1 acc: 0.976
+A3101 Val2 acc: 0.978
+A3101 Val3 acc: 0.978
+A3101 Avg. test ACC: 0.9712354916334153
+2019-12-13 20:50:54.825967
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 21:12:32.995498
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9785816666666667
+A3101 Test ACCURACY: 0.9754839
+A3101 Val1 acc: 0.983
+A3101 Val2 acc: 0.979
+A3101 Val3 acc: 0.974
+A3101 Avg. test ACC: 0.9626645281910896
+2019-12-13 21:12:34.755777
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-13 21:41:30.316892
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9542716666666666
+A3101 Test ACCURACY: 0.97967744
+A3101 Val1 acc: 0.986
+A3101 Val2 acc: 0.987
+A3101 Val3 acc: 0.988
+A3101 Avg. test ACC: 0.9746290469169616
+2019-12-13 21:41:32.074779
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-14 11:12:01.432376
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.978035
+A3101 Test ACCURACY: 0.9783871
+A3101 Val1 acc: 0.967
+A3101 Val2 acc: 0.973
+A3101 Val3 acc: 0.975
+A3101 Avg. test ACC: 0.9767064672708511
+2019-12-14 11:12:03.183191
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-14 20:40:20.486044
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9609933333333333
+A3101 Test ACCURACY: 0.98096776
+A3101 Val1 acc: 0.971
+A3101 Val2 acc: 0.98
+A3101 Val3 acc: 0.969
+A3101 Avg. test ACC: 0.9730032402276992
+2019-12-14 20:40:22.245050
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-14 21:07:52.150230
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9827600000000001
+A3101 Test ACCURACY: 0.98258066
+A3101 Val1 acc: 0.976
+A3101 Val2 acc: 0.982
+A3101 Val3 acc: 0.981
+A3101 Avg. test ACC: 0.9662387186288833
+2019-12-14 21:07:53.900756
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-14 21:37:40.705328
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9841433333333334
+A3101 Test ACCURACY: 0.9674193
+A3101 Val1 acc: 0.969
+A3101 Val2 acc: 0.973
+A3101 Val3 acc: 0.969
+A3101 Avg. test ACC: 0.9693838763236999
+2019-12-14 21:37:42.475482
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-14 22:01:07.911226
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9386516666666668
+A3101 Test ACCURACY: 0.9816129
+A3101 Val1 acc: 0.985
+A3101 Val2 acc: 0.982
+A3101 Val3 acc: 0.981
+A3101 Avg. test ACC: 0.9761032420396805
+2019-12-14 22:01:09.683147
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-15 11:38:37.374801
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9824183333333334
+A3101 Test ACCURACY: 0.9851613
+A3101 Val1 acc: 0.985
+A3101 Val2 acc: 0.975
+A3101 Val3 acc: 0.979
+A3101 Avg. test ACC: 0.9751064610481263
+2019-12-15 11:38:39.141838
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-15 14:58:21.869787
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9800883333333333
+A3101 Test ACCURACY: 0.9822581
+A3101 Val1 acc: 0.981
+A3101 Val2 acc: 0.976
+A3101 Val3 acc: 0.983
+A3101 Avg. test ACC: 0.9777580773830414
+2019-12-15 14:58:23.628481
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-15 15:28:31.012119
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9771519980683327
+A3101 Test ACCURACY: 0.9851613
+A3101 Val1 acc: 0.971
+A3101 Val2 acc: 0.971
+A3101 Val3 acc: 0.973
+A3101 Avg. test ACC: 0.9751322734355926
+2019-12-15 15:28:32.770714
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-16 22:51:56.944511
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9762866666666666
+A3101 Test ACCURACY: 0.9835484
+A3101 Val1 acc: 0.964
+A3101 Val2 acc: 0.973
+A3101 Val3 acc: 0.978
+A3101 Avg. test ACC: 0.9745613002777099
+2019-12-16 22:51:58.700534
+########### End of A3101 #######
+
+
+
+########### START of A3101 #######
+
+Test set: A3101
+Training complete!
+DATE: 2019-12-16 23:45:10.511155
+New run if 0; follow up run if 1 : 0
+
+A3101!!! Test AUC: 0.9016066666666667
+A3101 Test ACCURACY: 0.97806454
+A3101 Val1 acc: 0.958
+A3101 Val2 acc: 0.969
+A3101 Val3 acc: 0.962
+A3101 Avg. test ACC: 0.9745774310827255
+2019-12-16 23:45:12.264725
+########### End of A3101 #######
+
+
+

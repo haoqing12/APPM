@@ -1,0 +1,69 @@
+########### START of A0207 #######
+
+Test set: A0207
+Training complete!
+DATE: 2019-11-15 23:52:32.753239
+New run if 0; follow up run if 1 : 0
+
+A0207!!! Test AUC: 0.997902057374674
+A0207 Test ACCURACY: 0.9956
+A0207 Val acc: 1.0
+2019-11-15 23:52:32.949426
+########### End of A0207 #######
+
+
+
+########### START of A0207 #######
+
+Test set: A0207
+Training complete!
+DATE: 2019-11-24 23:30:34.793107
+New run if 0; follow up run if 1 : 0
+
+A0207!!! Test AUC: 0.9977929659689591
+A0207 Test ACCURACY: 0.9962497
+A0207 Val1 acc: 0.9968
+A0207 Val2 acc: 0.997
+A0207 Val3 acc: 0.9966
+A0207 Avg. test ACC: 0.9903504958917214
+2019-11-24 23:30:35.742780
+########### End of A0207 #######
+
+
+
+########### START of A0207 #######
+
+Test set: A0207
+Training complete!
+DATE: 2019-12-14 13:10:20.255257
+New run if 0; follow up run if 1 : 0
+
+A0207!!! Test AUC: 0.9883026666666666
+A0207 Test ACCURACY: 0.98698115
+A0207 Val1 acc: 0.989
+A0207 Val2 acc: 0.991
+A0207 Val3 acc: 0.987
+A0207 Avg. test ACC: 0.9824301916360855
+2019-12-14 13:10:22.092538
+########### End of A0207 #######
+
+
+
+########### START of A0207 #######
+
+Test set: A0207
+Training complete!
+DATE: 2019-12-15 17:36:21.645705
+New run if 0; follow up run if 1 : 0
+
+A0207!!! Test AUC: 0.9850276666666665
+A0207 Test ACCURACY: 0.9784906
+A0207 Val1 acc: 0.976
+A0207 Val2 acc: 0.976
+A0207 Val3 acc: 0.976
+A0207 Avg. test ACC: 0.9815490579605103
+2019-12-15 17:36:23.485205
+########### End of A0207 #######
+
+
+

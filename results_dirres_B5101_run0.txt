@@ -1,0 +1,288 @@
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-09 23:27:30.392922
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.990348
+B5101 Test ACCURACY: 0.9811111
+B5101 Val1 acc: 0.98
+B5101 Val2 acc: 0.975
+B5101 Val3 acc: 0.977
+B5101 Avg. test ACC: 0.966661114692688
+2019-12-09 23:27:32.235324
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 11:48:53.059732
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.9927300000000001
+B5101 Test ACCURACY: 0.9809259
+B5101 Val1 acc: 0.981
+B5101 Val2 acc: 0.98
+B5101 Val3 acc: 0.976
+B5101 Avg. test ACC: 0.97011480987072
+2019-12-10 11:48:54.930704
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 12:51:39.598010
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.993174
+B5101 Test ACCURACY: 0.98307693
+B5101 Val1 acc: 0.983
+B5101 Val2 acc: 0.983
+B5101 Val3 acc: 0.988
+B5101 Avg. test ACC: 0.9809115350246429
+2019-12-10 12:51:41.452406
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 13:39:03.984621
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.9910019999999999
+B5101 Test ACCURACY: 0.97232145
+B5101 Val1 acc: 0.977
+B5101 Val2 acc: 0.964
+B5101 Val3 acc: 0.967
+B5101 Avg. test ACC: 0.9625053590536118
+2019-12-10 13:39:05.845301
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 14:19:30.912867
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.992091111111111
+B5101 Test ACCURACY: 0.9777551
+B5101 Val1 acc: 0.964
+B5101 Val2 acc: 0.974
+B5101 Val3 acc: 0.97
+B5101 Avg. test ACC: 0.9537244892120361
+2019-12-10 14:19:32.748006
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 15:10:07.203053
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.989428
+B5101 Test ACCURACY: 0.9801852
+B5101 Val1 acc: 0.977
+B5101 Val2 acc: 0.981
+B5101 Val3 acc: 0.974
+B5101 Avg. test ACC: 0.9679537028074264
+2019-12-10 15:10:09.049901
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 20:01:29.629285
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.992748
+B5101 Test ACCURACY: 0.98055553
+B5101 Val1 acc: 0.982
+B5101 Val2 acc: 0.983
+B5101 Val3 acc: 0.982
+B5101 Avg. test ACC: 0.9726074075698853
+2019-12-10 20:01:31.470582
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 21:47:33.241005
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.992748
+B5101 Test ACCURACY: 0.98055553
+B5101 Val1 acc: 0.995
+B5101 Val2 acc: 0.989
+B5101 Val3 acc: 0.992
+B5101 Avg. test ACC: 0.9613962936401367
+2019-12-10 21:47:35.082325
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-10 22:22:15.160014
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.991914
+B5101 Test ACCURACY: 0.97625
+B5101 Val1 acc: 0.979
+B5101 Val2 acc: 0.977
+B5101 Val3 acc: 0.978
+B5101 Avg. test ACC: 0.9685624992847442
+2019-12-10 22:22:17.016273
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-11 00:39:56.249553
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.870638
+B5101 Test ACCURACY: 0.9774074
+B5101 Val1 acc: 0.996
+B5101 Val2 acc: 0.993
+B5101 Val3 acc: 0.997
+B5101 Avg. test ACC: 0.9776410536231281
+2019-12-11 00:39:58.084909
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-11 11:32:52.329827
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.98998
+B5101 Test ACCURACY: 0.969
+B5101 Val1 acc: 0.987
+B5101 Val2 acc: 0.981
+B5101 Val3 acc: 0.974
+B5101 Avg. test ACC: 0.9543550002574921
+2019-12-11 11:32:54.197629
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-13 22:24:40.869464
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.991393
+B5101 Test ACCURACY: 0.98307693
+B5101 Val1 acc: 0.981
+B5101 Val2 acc: 0.988
+B5101 Val3 acc: 0.994
+B5101 Avg. test ACC: 0.9779730755090713
+2019-12-13 22:24:42.704903
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-13 23:06:05.419849
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.9923500000000001
+B5101 Test ACCURACY: 0.98423076
+B5101 Val1 acc: 0.976
+B5101 Val2 acc: 0.976
+B5101 Val3 acc: 0.983
+B5101 Avg. test ACC: 0.9749673056602478
+2019-12-13 23:06:07.257287
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-14 22:43:15.658812
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.989882
+B5101 Test ACCURACY: 0.9821154
+B5101 Val1 acc: 0.981
+B5101 Val2 acc: 0.978
+B5101 Val3 acc: 0.969
+B5101 Avg. test ACC: 0.9815519219636917
+2019-12-14 22:43:17.493626
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-14 23:22:55.994718
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.98909
+B5101 Test ACCURACY: 0.98596156
+B5101 Val1 acc: 0.981
+B5101 Val2 acc: 0.979
+B5101 Val3 acc: 0.981
+B5101 Avg. test ACC: 0.978965385556221
+2019-12-14 23:22:57.982148
+########### End of B5101 #######
+
+
+
+########### START of B5101 #######
+
+Test set: B5101
+Training complete!
+DATE: 2019-12-15 12:48:35.543963
+New run if 0; follow up run if 1 : 0
+
+B5101!!! Test AUC: 0.9722065
+B5101 Test ACCURACY: 0.9863461
+B5101 Val1 acc: 0.973
+B5101 Val2 acc: 0.975
+B5101 Val3 acc: 0.985
+B5101 Avg. test ACC: 0.9756730765104293
+2019-12-15 12:48:37.375769
+########### End of B5101 #######
+
+
+

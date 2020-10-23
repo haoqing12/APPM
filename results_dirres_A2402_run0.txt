@@ -1,0 +1,126 @@
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-11-26 15:02:17.013656
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9952395269593105
+A2402 Test ACCURACY: 0.9923762
+A2402 Val1 acc: 0.995
+A2402 Val2 acc: 0.9942
+A2402 Val3 acc: 0.9936
+A2402 Avg. test ACC: 0.9870559477967004
+2019-11-26 15:02:17.781646
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-11-27 16:15:20.683706
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9966596343178621
+A2402 Test ACCURACY: 0.9943224
+A2402 Val1 acc: 0.9956
+A2402 Val2 acc: 0.995
+A2402 Val3 acc: 0.9942
+A2402 Avg. test ACC: 0.9886861650347709
+2019-11-27 16:15:21.490395
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-12-07 16:04:21.408713
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9757796
+A2402 Test ACCURACY: 0.9761818
+A2402 Val1 acc: 0.995
+A2402 Val2 acc: 0.994
+A2402 Val3 acc: 0.996
+A2402 Avg. test ACC: 0.9771654472126525
+2019-12-07 16:04:23.236485
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-12-16 17:17:15.450869
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9891365999999999
+A2402 Test ACCURACY: 0.9778182
+A2402 Val1 acc: 0.983
+A2402 Val2 acc: 0.983
+A2402 Val3 acc: 0.983
+A2402 Avg. test ACC: 0.9755290895700455
+2019-12-16 17:17:17.298616
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-12-16 18:34:07.345880
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9811294
+A2402 Test ACCURACY: 0.97836363
+A2402 Val1 acc: 0.979
+A2402 Val2 acc: 0.978
+A2402 Val3 acc: 0.995
+A2402 Avg. test ACC: 0.973385454416275
+2019-12-16 18:34:09.191753
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-12-16 20:15:15.878093
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9931639999999999
+A2402 Test ACCURACY: 0.97763634
+A2402 Val1 acc: 0.97
+A2402 Val2 acc: 0.983
+A2402 Val3 acc: 0.979
+A2402 Avg. test ACC: 0.9766472685337066
+2019-12-16 20:15:17.725170
+########### End of A2402 #######
+
+
+
+########### START of A2402 #######
+
+Test set: A2402
+Training complete!
+DATE: 2019-12-16 21:24:22.420744
+New run if 0; follow up run if 1 : 0
+
+A2402!!! Test AUC: 0.9912792
+A2402 Test ACCURACY: 0.9770909
+A2402 Val1 acc: 0.986
+A2402 Val2 acc: 0.979
+A2402 Val3 acc: 0.984
+A2402 Avg. test ACC: 0.9743890863656998
+2019-12-16 21:24:24.270156
+########### End of A2402 #######
+
+
+

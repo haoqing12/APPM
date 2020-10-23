@@ -1,0 +1,54 @@
+########### START of A0301 #######
+
+Test set: A0301
+Training complete!
+DATE: 2019-11-25 17:18:36.383194
+New run if 0; follow up run if 1 : 0
+
+A0301!!! Test AUC: 0.9968866789140858
+A0301 Test ACCURACY: 0.99125713
+A0301 Val1 acc: 0.9916667
+A0301 Val2 acc: 0.9913333
+A0301 Val3 acc: 0.992
+A0301 Avg. test ACC: 0.9854220530844682
+2019-11-25 17:18:36.975919
+########### End of A0301 #######
+
+
+
+########### START of A0301 #######
+
+Test set: A0301
+Training complete!
+DATE: 2019-11-27 02:12:33.532509
+New run if 0; follow up run if 1 : 0
+
+A0301!!! Test AUC: 0.9971889385721575
+A0301 Test ACCURACY: 0.99045104
+A0301 Val1 acc: 0.98766667
+A0301 Val2 acc: 0.9913333
+A0301 Val3 acc: 0.98866665
+A0301 Avg. test ACC: 0.9834489896103688
+2019-11-27 02:12:34.107210
+########### End of A0301 #######
+
+
+
+########### START of A0301 #######
+
+Test set: A0301
+Training complete!
+DATE: 2019-12-06 23:00:51.724062
+New run if 0; follow up run if 1 : 0
+
+A0301!!! Test AUC: 0.9975815163032608
+A0301 Test ACCURACY: 0.9970904
+A0301 Val1 acc: 0.998
+A0301 Val2 acc: 0.998
+A0301 Val3 acc: 0.998
+A0301 Avg. test ACC: 0.9527744909766878
+2019-12-06 23:00:53.562656
+########### End of A0301 #######
+
+
+

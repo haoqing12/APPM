@@ -1,0 +1,189 @@
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-15 17:50:54.246714
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.939955823396455
+A0201 Test ACCURACY: 0.9858
+A0201 Val acc: 0.99
+2019-11-15 17:50:54.442062
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-17 13:31:27.029698
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9965395946382292
+A0201 Test ACCURACY: 0.993
+A0201 Val acc: 0.99
+2019-11-17 13:31:27.233137
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-19 16:00:40.719860
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9945365028474765
+A0201 Test ACCURACY: 0.9944
+A0201 Val acc: 0.9937
+2019-11-19 16:00:41.121015
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-22 19:59:15.477592
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.5710346864922085
+A0201 Test ACCURACY: 0.54433835
+A0201 Val1 acc: 0.5496
+A0201 Val2 acc: 0.539
+A0201 Val3 acc: 0.553
+A0201 Avg. test ACC: 0.5469486666470766
+2019-11-22 19:59:15.890899
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-23 15:14:27.655298
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.5528268440631168
+A0201 Test ACCURACY: 0.5467258
+A0201 Val1 acc: 0.5718
+A0201 Val2 acc: 0.5624
+A0201 Val3 acc: 0.569
+A0201 Avg. test ACC: 0.7740279704332351
+2019-11-23 15:14:28.061801
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-11-24 03:01:34.486053
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9941823599034769
+A0201 Test ACCURACY: 0.9915732
+A0201 Val1 acc: 0.9896
+A0201 Val2 acc: 0.9896
+A0201 Val3 acc: 0.9898
+A0201 Avg. test ACC: 0.9859455989800412
+2019-11-24 03:01:35.386035
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-12-03 21:40:20.523716
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9970666671106923
+A0201 Test ACCURACY: 0.99074566
+A0201 Val1 acc: 0.9896
+A0201 Val2 acc: 0.9896
+A0201 Val3 acc: 0.992
+A0201 Avg. test ACC: 0.9837207823395729
+2019-12-03 21:40:21.396993
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-12-09 12:07:11.573300
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9907256666666667
+A0201 Test ACCURACY: 0.99303573
+A0201 Val1 acc: 0.987
+A0201 Val2 acc: 0.982
+A0201 Val3 acc: 0.981
+A0201 Avg. test ACC: 0.9295535743236542
+2019-12-09 12:07:13.462825
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-12-15 22:31:36.093058
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9875629999999999
+A0201 Test ACCURACY: 0.97
+A0201 Val1 acc: 0.966
+A0201 Val2 acc: 0.971
+A0201 Val3 acc: 0.968
+A0201 Avg. test ACC: 0.962137501835823
+2019-12-15 22:31:37.949344
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-12-15 23:59:04.980846
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9867903333333332
+A0201 Test ACCURACY: 0.9635714
+A0201 Val1 acc: 0.984
+A0201 Val2 acc: 0.989
+A0201 Val3 acc: 0.981
+A0201 Avg. test ACC: 0.9502625018358231
+2019-12-15 23:59:06.834506
+########### End of A0201 #######
+
+
+
+########### START of A0201 #######
+
+Test set: A0201
+Training complete!
+DATE: 2019-12-16 11:59:28.266439
+New run if 0; follow up run if 1 : 0
+
+A0201!!! Test AUC: 0.9892663333333334
+A0201 Test ACCURACY: 0.9721429
+A0201 Val1 acc: 0.968
+A0201 Val2 acc: 0.97
+A0201 Val3 acc: 0.982
+A0201 Avg. test ACC: 0.9645125037431717
+2019-12-16 11:59:30.124530
+########### End of A0201 #######
+
+
+

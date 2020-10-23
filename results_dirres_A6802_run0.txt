@@ -1,0 +1,72 @@
+########### START of A6802 #######
+
+Test set: A6802
+Training complete!
+DATE: 2019-11-27 21:00:16.200959
+New run if 0; follow up run if 1 : 0
+
+A6802!!! Test AUC: 0.9984905595388229
+A6802 Test ACCURACY: 0.9966521
+A6802 Val1 acc: 0.9943333
+A6802 Val2 acc: 0.996
+A6802 Val3 acc: 0.99633336
+A6802 Avg. test ACC: 0.9807142463057212
+2019-11-27 21:00:16.765465
+########### End of A6802 #######
+
+
+
+########### START of A6802 #######
+
+Test set: A6802
+Training complete!
+DATE: 2019-12-09 18:24:38.854114
+New run if 0; follow up run if 1 : 0
+
+A6802!!! Test AUC: 0.7589
+A6802 Test ACCURACY: 0.95436364
+A6802 Val1 acc: 0.997
+A6802 Val2 acc: 1.0
+A6802 Val3 acc: 0.998
+A6802 Avg. test ACC: 0.9537693848285604
+2019-12-09 18:24:40.702495
+########### End of A6802 #######
+
+
+
+########### START of A6802 #######
+
+Test set: A6802
+Training complete!
+DATE: 2019-12-09 21:02:24.299172
+New run if 0; follow up run if 1 : 0
+
+A6802!!! Test AUC: 0.7392
+A6802 Test ACCURACY: 0.9512727
+A6802 Val1 acc: 1.0
+A6802 Val2 acc: 1.0
+A6802 Val3 acc: 0.999
+A6802 Avg. test ACC: 0.9510215592267752
+2019-12-09 21:02:26.144563
+########### End of A6802 #######
+
+
+
+########### START of A6802 #######
+
+Test set: A6802
+Training complete!
+DATE: 2019-12-09 22:32:49.867038
+New run if 0; follow up run if 1 : 0
+
+A6802!!! Test AUC: 0.9992119999999999
+A6802 Test ACCURACY: 0.99679244
+A6802 Val1 acc: 0.993
+A6802 Val2 acc: 0.995
+A6802 Val3 acc: 0.995
+A6802 Avg. test ACC: 0.9691264128684998
+2019-12-09 22:32:51.696656
+########### End of A6802 #######
+
+
+

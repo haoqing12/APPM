@@ -1,0 +1,126 @@
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-13 12:39:20.823174
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.9680166666666665
+B3501 Test ACCURACY: 0.9867742
+B3501 Val1 acc: 0.994
+B3501 Val2 acc: 0.995
+B3501 Val3 acc: 0.995
+B3501 Avg. test ACC: 0.9826000148057937
+2019-12-13 12:39:22.576011
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-14 10:20:46.552960
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.8928816666666667
+B3501 Test ACCURACY: 0.9880645
+B3501 Val1 acc: 0.993
+B3501 Val2 acc: 0.995
+B3501 Val3 acc: 0.995
+B3501 Avg. test ACC: 0.9841903346776962
+2019-12-14 10:20:48.310852
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-15 13:14:44.396000
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.8824366666666666
+B3501 Test ACCURACY: 0.9870968
+B3501 Val1 acc: 0.99
+B3501 Val2 acc: 0.991
+B3501 Val3 acc: 0.995
+B3501 Avg. test ACC: 0.9840516239404679
+2019-12-15 13:14:46.147763
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-15 13:57:56.538978
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.9822816666666666
+B3501 Test ACCURACY: 0.98451614
+B3501 Val1 acc: 0.985
+B3501 Val2 acc: 0.985
+B3501 Val3 acc: 0.981
+B3501 Avg. test ACC: 0.9813000100851059
+2019-12-15 13:57:58.325633
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-17 13:55:33.504596
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.833485
+B3501 Test ACCURACY: 0.9864516
+B3501 Val1 acc: 0.996
+B3501 Val2 acc: 0.992
+B3501 Val3 acc: 0.995
+B3501 Avg. test ACC: 0.9845064622163773
+2019-12-17 13:55:35.266852
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-17 14:24:49.549092
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.82813
+B3501 Test ACCURACY: 0.9848387
+B3501 Val1 acc: 0.979
+B3501 Val2 acc: 0.979
+B3501 Val3 acc: 0.98
+B3501 Avg. test ACC: 0.9823742038011551
+2019-12-17 14:24:51.305700
+########### End of B3501 #######
+
+
+
+########### START of B3501 #######
+
+Test set: B3501
+Training complete!
+DATE: 2019-12-17 15:04:11.980526
+New run if 0; follow up run if 1 : 0
+
+B3501!!! Test AUC: 0.9286233333333335
+B3501 Test ACCURACY: 0.9835484
+B3501 Val1 acc: 0.989
+B3501 Val2 acc: 0.989
+B3501 Val3 acc: 0.987
+B3501 Avg. test ACC: 0.9804322654008866
+2019-12-17 15:04:13.739838
+########### End of B3501 #######
+
+
+

@@ -1,0 +1,108 @@
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-11-25 20:27:30.446427
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9989128366921309
+A1101 Test ACCURACY: 0.99566615
+A1101 Val1 acc: 0.9942
+A1101 Val2 acc: 0.9946
+A1101 Val3 acc: 0.9952
+A1101 Avg. test ACC: 0.9919354874658358
+2019-11-25 20:27:31.179084
+########### End of A1101 #######
+
+
+
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-12-16 13:58:29.234502
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9975665665665666
+A1101 Test ACCURACY: 0.99133784
+A1101 Val1 acc: 0.988
+A1101 Val2 acc: 0.988
+A1101 Val3 acc: 0.986
+A1101 Avg. test ACC: 0.9846544706821442
+2019-12-16 13:58:31.075302
+########### End of A1101 #######
+
+
+
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-12-16 14:51:50.593798
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9893648648648649
+A1101 Test ACCURACY: 0.99056786
+A1101 Val1 acc: 0.991
+A1101 Val2 acc: 0.991
+A1101 Val3 acc: 0.993
+A1101 Avg. test ACC: 0.9866525447368621
+2019-12-16 14:51:52.433135
+########### End of A1101 #######
+
+
+
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-12-16 15:50:58.361803
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9881131131131131
+A1101 Test ACCURACY: 0.99133784
+A1101 Val1 acc: 0.996
+A1101 Val2 acc: 0.992
+A1101 Val3 acc: 0.994
+A1101 Avg. test ACC: 0.985955719947815
+2019-12-16 15:51:00.203862
+########### End of A1101 #######
+
+
+
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-12-16 22:27:19.597722
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9954934934934936
+A1101 Test ACCURACY: 0.9907603
+A1101 Val1 acc: 0.992
+A1101 Val2 acc: 0.988
+A1101 Val3 acc: 0.99
+A1101 Avg. test ACC: 0.986723769903183
+2019-12-16 22:27:21.428807
+########### End of A1101 #######
+
+
+
+########### START of A1101 #######
+
+Test set: A1101
+Training complete!
+DATE: 2019-12-17 00:42:17.135086
+New run if 0; follow up run if 1 : 0
+
+A1101!!! Test AUC: 0.9974704704704704
+A1101 Test ACCURACY: 0.99037534
+A1101 Val1 acc: 0.99
+A1101 Val2 acc: 0.987
+A1101 Val3 acc: 0.991
+A1101 Avg. test ACC: 0.9858075028657913
+2019-12-17 00:42:18.964491
+########### End of A1101 #######
+
+
+

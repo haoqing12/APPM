@@ -1,0 +1,684 @@
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 12:51:59.318035
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8708311111111111
+B5401 Test ACCURACY: 0.9522034
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.997
+B5401 Val3 acc: 0.997
+B5401 Avg. test ACC: 0.9525169485807419
+2019-12-11 12:52:01.181631
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 13:27:52.505744
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8215066666666666
+B5401 Test ACCURACY: 0.9564831
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.998
+B5401 Val3 acc: 0.998
+B5401 Avg. test ACC: 0.9660888117551804
+2019-12-11 13:27:54.356302
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 13:55:13.857398
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.968708888888889
+B5401 Test ACCURACY: 0.980597
+B5401 Val1 acc: 0.994
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.995
+B5401 Avg. test ACC: 0.970524251461029
+2019-12-11 13:55:15.691589
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 14:20:32.039373
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.92396
+B5401 Test ACCURACY: 0.9827325
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.994
+B5401 Val3 acc: 0.996
+B5401 Avg. test ACC: 0.9787798887491226
+2019-12-11 14:20:33.871551
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 14:45:51.730121
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.92396
+B5401 Test ACCURACY: 0.9827325
+B5401 Val1 acc: 0.995
+B5401 Val2 acc: 0.998
+B5401 Val3 acc: 0.998
+B5401 Avg. test ACC: 0.9779468661546707
+2019-12-11 14:45:53.573398
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 15:11:15.392896
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9673544444444444
+B5401 Test ACCURACY: 0.9872587
+B5401 Val1 acc: 0.991
+B5401 Val2 acc: 0.992
+B5401 Val3 acc: 0.991
+B5401 Avg. test ACC: 0.9730463326349854
+2019-12-11 15:11:17.222673
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 15:47:21.632546
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9731222222222222
+B5401 Test ACCURACY: 0.9849421
+B5401 Val1 acc: 0.99
+B5401 Val2 acc: 0.989
+B5401 Val3 acc: 0.985
+B5401 Avg. test ACC: 0.9844633197784424
+2019-12-11 15:47:23.462954
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 16:19:46.501830
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9731222222222222
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.993
+B5401 Val3 acc: 0.99
+B5401 Avg. test ACC: 0.9865127742290497
+2019-12-11 16:19:48.329972
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 16:51:30.409147
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9731222222222222
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.968
+B5401 Val2 acc: 0.978
+B5401 Val3 acc: 0.966
+B5401 Avg. test ACC: 0.9897701358795166
+2019-12-11 16:51:32.239501
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 17:25:11.557602
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9731222222222222
+B5401 Test ACCURACY: 0.9849421
+B5401 Val1 acc: 0.968
+B5401 Val2 acc: 0.962
+B5401 Val3 acc: 0.971
+B5401 Avg. test ACC: 0.9804111975431442
+2019-12-11 17:25:13.389075
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 17:58:32.364502
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8427066666666666
+B5401 Test ACCURACY: 0.9849421
+B5401 Val1 acc: 1.0
+B5401 Val2 acc: 0.998
+B5401 Val3 acc: 1.0
+B5401 Avg. test ACC: 0.9731370633840561
+2019-12-11 17:58:34.195126
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-11 19:30:39.087720
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8427066666666666
+B5401 Test ACCURACY: 0.9849421
+B5401 Val1 acc: 1.0
+B5401 Val2 acc: 0.999
+B5401 Val3 acc: 1.0
+B5401 Avg. test ACC: 0.9653899604082108
+2019-12-11 19:30:40.920142
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-13 13:19:02.285124
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9069122222222222
+B5401 Test ACCURACY: 0.9891945
+B5401 Val1 acc: 0.995
+B5401 Val2 acc: 0.99
+B5401 Val3 acc: 0.993
+B5401 Avg. test ACC: 0.9883772087097168
+2019-12-13 13:19:04.116639
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-14 10:49:32.512698
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9336111111111111
+B5401 Test ACCURACY: 0.9768173
+B5401 Val1 acc: 0.979
+B5401 Val2 acc: 0.978
+B5401 Val3 acc: 0.969
+B5401 Avg. test ACC: 0.9880471521615982
+2019-12-14 10:49:34.340441
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-14 23:55:37.568211
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9082822222222222
+B5401 Test ACCURACY: 0.9907662
+B5401 Val1 acc: 0.99
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.991
+B5401 Avg. test ACC: 0.9889960724115372
+2019-12-14 23:55:39.404020
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-15 00:43:19.255298
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8704644444444445
+B5401 Test ACCURACY: 0.9917485
+B5401 Val1 acc: 0.988
+B5401 Val2 acc: 0.99
+B5401 Val3 acc: 0.981
+B5401 Avg. test ACC: 0.9884538346529007
+2019-12-15 00:43:21.094067
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-15 12:09:19.758663
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9481966666666666
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.991
+B5401 Val2 acc: 0.986
+B5401 Val3 acc: 0.987
+B5401 Avg. test ACC: 0.9890157186985016
+2019-12-15 12:09:21.584925
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-15 14:28:54.147076
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.887371111111111
+B5401 Test ACCURACY: 0.9929273
+B5401 Val1 acc: 0.995
+B5401 Val2 acc: 0.995
+B5401 Val3 acc: 0.995
+B5401 Avg. test ACC: 0.9887249499559403
+2019-12-15 14:28:55.973652
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-16 23:20:20.278767
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9546222222222223
+B5401 Test ACCURACY: 0.9909627
+B5401 Val1 acc: 0.989
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.991
+B5401 Avg. test ACC: 0.9887662100791931
+2019-12-16 23:20:22.115333
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 15:41:58.520932
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.88707
+B5401 Test ACCURACY: 0.99194497
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.999
+B5401 Val3 acc: 0.999
+B5401 Avg. test ACC: 0.9895186626911163
+2019-12-17 15:42:00.352810
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 16:21:19.564305
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8430444444444444
+B5401 Test ACCURACY: 0.9917485
+B5401 Val1 acc: 0.997
+B5401 Val2 acc: 0.997
+B5401 Val3 acc: 0.997
+B5401 Avg. test ACC: 0.9882593327760696
+2019-12-17 16:21:21.397667
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 16:49:41.429323
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9034177777777777
+B5401 Test ACCURACY: 0.99233794
+B5401 Val1 acc: 0.995
+B5401 Val2 acc: 0.993
+B5401 Val3 acc: 0.985
+B5401 Avg. test ACC: 0.9885677772760392
+2019-12-17 16:49:43.260111
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 17:22:39.220138
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9630944444444444
+B5401 Test ACCURACY: 0.99155205
+B5401 Val1 acc: 0.993
+B5401 Val2 acc: 0.992
+B5401 Val3 acc: 0.992
+B5401 Avg. test ACC: 0.9871434205770493
+2019-12-17 17:22:41.063545
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 17:52:03.663002
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.843068888888889
+B5401 Test ACCURACY: 0.99155205
+B5401 Val1 acc: 0.998
+B5401 Val2 acc: 0.998
+B5401 Val3 acc: 0.996
+B5401 Avg. test ACC: 0.9885893875360489
+2019-12-17 17:52:05.492605
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 18:17:34.558374
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9355733333333334
+B5401 Test ACCURACY: 0.9925344
+B5401 Val1 acc: 0.99
+B5401 Val2 acc: 0.994
+B5401 Val3 acc: 0.99
+B5401 Avg. test ACC: 0.9873713159561157
+2019-12-17 18:17:36.393501
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 18:47:21.137600
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8159299999999999
+B5401 Test ACCURACY: 0.9921414
+B5401 Val1 acc: 0.985
+B5401 Val2 acc: 0.984
+B5401 Val3 acc: 0.985
+B5401 Avg. test ACC: 0.989021612405777
+2019-12-17 18:47:22.969485
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 19:15:24.087919
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9398822222222222
+B5401 Test ACCURACY: 0.9907662
+B5401 Val1 acc: 0.991
+B5401 Val2 acc: 0.983
+B5401 Val3 acc: 0.988
+B5401 Avg. test ACC: 0.9887053054571152
+2019-12-17 19:15:25.920979
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 21:36:42.442056
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9085222222222222
+B5401 Test ACCURACY: 0.99273086
+B5401 Val1 acc: 0.986
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.994
+B5401 Avg. test ACC: 0.9893595302104949
+2019-12-17 21:36:44.293888
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 22:07:05.667655
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8806411111111111
+B5401 Test ACCURACY: 0.9909627
+B5401 Val1 acc: 0.983
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.992
+B5401 Avg. test ACC: 0.9889626723527908
+2019-12-17 22:07:07.493461
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 22:35:42.733753
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8215155555555554
+B5401 Test ACCURACY: 0.9925344
+B5401 Val1 acc: 0.991
+B5401 Val2 acc: 0.99
+B5401 Val3 acc: 0.996
+B5401 Avg. test ACC: 0.9893654191493988
+2019-12-17 22:35:44.563210
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 23:13:21.653761
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8211700000000001
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.984
+B5401 Val2 acc: 0.99
+B5401 Val3 acc: 0.987
+B5401 Avg. test ACC: 0.9890098190307617
+2019-12-17 23:13:23.489631
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-17 23:43:33.909444
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.919008888888889
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.99
+B5401 Val2 acc: 0.981
+B5401 Val3 acc: 0.989
+B5401 Avg. test ACC: 0.98730255484581
+2019-12-17 23:43:35.737658
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-18 00:20:42.586851
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9701233333333334
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.987
+B5401 Val2 acc: 0.991
+B5401 Val3 acc: 0.98
+B5401 Avg. test ACC: 0.9875815337896348
+2019-12-18 00:20:44.419347
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-18 01:08:38.100038
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8973033333333332
+B5401 Test ACCURACY: 0.99115914
+B5401 Val1 acc: 0.995
+B5401 Val2 acc: 0.995
+B5401 Val3 acc: 0.992
+B5401 Avg. test ACC: 0.9900176823139191
+2019-12-18 01:08:39.939859
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-18 10:27:30.778358
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.9736355555555556
+B5401 Test ACCURACY: 0.9909627
+B5401 Val1 acc: 0.986
+B5401 Val2 acc: 0.989
+B5401 Val3 acc: 0.986
+B5401 Avg. test ACC: 0.9889489185810089
+2019-12-18 10:27:32.613540
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-18 14:37:33.015052
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8758566666666667
+B5401 Test ACCURACY: 0.9917485
+B5401 Val1 acc: 0.999
+B5401 Val2 acc: 0.995
+B5401 Val3 acc: 0.997
+B5401 Avg. test ACC: 0.985365424156189
+2019-12-18 14:37:34.843251
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2019-12-18 15:09:02.047104
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8859066666666666
+B5401 Test ACCURACY: 0.98998034
+B5401 Val1 acc: 0.993
+B5401 Val2 acc: 0.997
+B5401 Val3 acc: 0.991
+B5401 Avg. test ACC: 0.9842593330144882
+2019-12-18 15:09:03.874160
+########### End of B5401 #######
+
+
+
+########### START of B5401 #######
+
+Test set: B5401
+Training complete!
+DATE: 2020-05-08 18:24:37.343308
+New run if 0; follow up run if 1 : 0
+
+B5401!!! Test AUC: 0.8760777777777777
+B5401 Test ACCURACY: 0.99273086
+B5401 Val1 acc: 0.992
+B5401 Val2 acc: 0.99
+B5401 Val3 acc: 0.991
+B5401 Avg. test ACC: 0.9773241643980145
+2020-05-08 18:24:39.208880
+########### End of B5401 #######
+
+
+

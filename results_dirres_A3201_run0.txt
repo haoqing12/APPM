@@ -1,0 +1,54 @@
+########### START of A3201 #######
+
+Test set: A3201
+Training complete!
+DATE: 2019-11-27 18:56:22.947532
+New run if 0; follow up run if 1 : 0
+
+A3201!!! Test AUC: 0.9995034756703078
+A3201 Test ACCURACY: 0.99915576
+A3201 Val1 acc: 0.998
+A3201 Val2 acc: 0.999
+A3201 Val3 acc: 1.0
+A3201 Avg. test ACC: 0.996756747075655
+2019-11-27 18:56:23.209083
+########### End of A3201 #######
+
+
+
+########### START of A3201 #######
+
+Test set: A3201
+Training complete!
+DATE: 2019-12-04 19:35:19.651745
+New run if 0; follow up run if 1 : 0
+
+A3201!!! Test AUC: 0.9985835694050991
+A3201 Test ACCURACY: 0.99760133
+A3201 Val1 acc: 0.999
+A3201 Val2 acc: 1.0
+A3201 Val3 acc: 0.999
+A3201 Avg. test ACC: 0.9906443032773088
+2019-12-04 19:35:19.868125
+########### End of A3201 #######
+
+
+
+########### START of A3201 #######
+
+Test set: A3201
+Training complete!
+DATE: 2019-12-13 23:24:45.288061
+New run if 0; follow up run if 1 : 0
+
+A3201!!! Test AUC: 0.9798331664998332
+A3201 Test ACCURACY: 0.99901545
+A3201 Val1 acc: 0.999
+A3201 Val2 acc: 0.998
+A3201 Val3 acc: 0.997
+A3201 Avg. test ACC: 0.9917065942287445
+2019-12-13 23:24:47.040302
+########### End of A3201 #######
+
+
+
