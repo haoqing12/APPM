@@ -1,1 +1,1 @@
-# sssss
+Neoantigen Presentation Prediction Model, named APPM, is a neoantigen predictor build by HLA-peptides mass spectrometry data and convolutional neural network (CNN). Compared to the netMHCpan4.0, our framework demonstrates higher values of area under the ROC curve (AUC) in some HLA alleles.
