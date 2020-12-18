@@ -284,6 +284,7 @@ def onehot2binary(yy):
 print("Tensorflow version " + tf.__version__)
 # python script/prediction.py  A0101 
 predictset = sys.argv[1]   #A0101
+input_file = sys.argv[2]   #9mer
 print("Test set is ", predictset)
 data = getdata_onehot(predictdatafile=predictset)
 
@@ -326,4 +327,4 @@ predict_dir = 'predictresults/' + predictset + '/'
 if not os.path.exists(predict_dir):
     os.makedirs(predict_dir)
 
-dataset.to_csv(predict_dir+predictset+'.csv',index=False)
+dataset.to_csv(predict_dir+predictset+input_file+'.csv',index=False)
