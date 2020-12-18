@@ -10,7 +10,7 @@ tensorflow-gpu 1.14
 Installation
 
 
-conda install --channel https://conda.anaconda.org/fwaters tensorflow-gpu
+conda install --channel https://conda.anaconda.org/fwaters tensorflow-gpu==1.14
 
 Usage
 
