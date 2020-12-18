@@ -327,4 +327,4 @@ predict_dir = 'predictresults/' + predictset + '/'
 if not os.path.exists(predict_dir):
     os.makedirs(predict_dir)
 
-dataset.to_csv(predict_dir+predictset+input_file+'.csv',index=False)
+dataset.to_csv(predict_dir+predictset+'_'+input_file+'.csv',index=False)
