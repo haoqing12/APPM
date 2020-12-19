@@ -286,7 +286,7 @@ print("Tensorflow version " + tf.__version__)
 alleles = sys.argv[1]   #A0101
 predictset = sys.argv[2]   #9mer
 
-print("Test set is ", predictset)
+print("Test set is ",alleles, predictset)
 data = getdata_onehot(predictdatafile=predictset)
 
 
@@ -301,7 +301,7 @@ X_shaped = tf.reshape(X, [-1, input_height, input_width, 1])
 ####################################################################
 
 #数据导入神经网络
-save_dir = 'checkpoints/' + predictset + '/'
+save_dir = 'checkpoints/' + alleles + '/'
 save_path = os.path.join(save_dir, 'best_validation')
 save_thelast_path = os.path.join(save_dir, 'last_weigths')
 logits = DL_model(inputData=X_shaped)
@@ -317,14 +317,14 @@ with tf.compat.v1.Session() as sess:
     predictions = sess.run(prediction, feed_dict={X: data['X_predict'], prob_: 1.0})
     prediction_val = onehot2binary(predictions)
 
-predict_set = os.path.join("./DATA", "predict_data", predictset )         #sys.argv[1]:A0101
+predict_set = os.path.join("./DATA", "predict_data", alleles )         #sys.argv[1]:A0101
 dataset = pd.read_csv(predict_set, header=0)
 
 
 prediction_ = pd.DataFrame(prediction_val,columns=['predictresult'])
 dataset.insert(2,'predictresult',prediction_.pop('predictresult'))
 
-predict_dir = 'predictresults/' + predictset + '/'
+predict_dir = 'predictresults/' + alleles + '/'
 if not os.path.exists(predict_dir):
     os.makedirs(predict_dir)
 
