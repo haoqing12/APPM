@@ -6,9 +6,11 @@ Dependencies
 
 tensorflow-gpu 1.14
 
-conda install --channel https://conda.anaconda.org/fwaters tensorflow-gpu==1.14
+    conda install --channel https://conda.anaconda.org/fwaters tensorflow-gpu==1.14
 
 pandas
+
+sklearn
 
 Usage
 
