@@ -17,7 +17,7 @@ Usage
 
 Our models (20 availbale alleles) have been trained. If just for prediction neoantigens, you can run the prediction.py directly.
 
-python script/prediction.py [HLA allele] [intput_file]
+python script/prediction.py [HLA allele] [intput_file]  #DATA/predict_data/
      
      python script/prediction.py A0101 pep9
 
