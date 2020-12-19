@@ -282,10 +282,10 @@ def onehot2binary(yy):
 
 #载入数据
 print("Tensorflow version " + tf.__version__)
-# python script/prediction.py  A0101 9mer
+# python script/prediction.py A0101 9mer
 alleles = sys.argv[1]   #A0101
 input_file = sys.argv[2]   #9mer
-print("Test set is ",alleles)
+print("Test set is ", alleles)
 data = getdata_onehot(predictdatafile=input_file)
 
 
@@ -316,6 +316,8 @@ with tf.compat.v1.Session() as sess:
     predictions = sess.run(prediction, feed_dict={X: data['X_predict'], prob_: 1.0})
     prediction_val = onehot2binary(predictions)
 
+
+#待测文件载入
 predict_set = os.path.join("./DATA", "predict_data", input_file)         #sys.argv[2]
 dataset = pd.read_csv(predict_set, header=0)
 
@@ -327,4 +329,4 @@ predict_dir = 'predictresults/' + alleles + '/'
 if not os.path.exists(predict_dir):
     os.makedirs(predict_dir)
 
-dataset.to_csv(predict_dir+input_file+'.csv',index=False)
+dataset.to_csv(predict_dir+alleles+'_'+input_file+'.csv',index=False)
