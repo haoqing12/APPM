@@ -2,15 +2,13 @@ APPM:Neoantigen Presentation Prediction Model
 
 Neoantigen Presentation Prediction Model, named APPM, is a neoantigen predictor build by HLA-peptides mass spectrometry data and convolutional neural network (CNN). Compared to the netMHCpan4.0, our framework demonstrates higher values of area under the ROC curve (AUC) in some HLA alleles.
 
-tensorflow
-
+Dependencies
 
 tensorflow-gpu 1.14
 
-Installation
-
-
 conda install --channel https://conda.anaconda.org/fwaters tensorflow-gpu==1.14
+
+pandas
 
 Usage
 
