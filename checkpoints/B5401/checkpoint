@@ -1,3 +1,0 @@
-model_checkpoint_path: "best_validation"
-all_model_checkpoint_paths: "last_weigths"
-all_model_checkpoint_paths: "best_validation"
