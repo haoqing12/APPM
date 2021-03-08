@@ -332,4 +332,4 @@ predict_dir = 'predictresults/' + alleles + '/'
 if not os.path.exists(predict_dir):
     os.makedirs(predict_dir)
 
-dataset.to_csv(predict_dir+alleles+'_'+input_file+'.csv',index=False)
+dataset.to_csv(predict_dir+alleles+'_'+input_file+'.csv',index=False,sep='\t')
