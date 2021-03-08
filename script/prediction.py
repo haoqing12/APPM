@@ -322,8 +322,11 @@ predict_set = os.path.join("./DATA", "predict_data", input_file)         #sys.ar
 dataset = pd.read_csv(predict_set, header=0)
 
 
-prediction_ = pd.DataFrame(prediction_val,columns=['predictresult'])
-dataset.insert(2,'predictresult',prediction_.pop('predictresult'))
+prediction_val = pd.DataFrame(prediction_val,columns=['predictresult'])
+prediction_ = pd.DataFrame(predictions,columns=['Score','note2'])
+score = prediction_['Score']
+#dataset.insert(2,'predictresult',prediction_.pop('predictresult'))
+result = pd.concat([dataset,prediction_val,score],axis = 1)
 
 predict_dir = 'predictresults/' + alleles + '/'
 if not os.path.exists(predict_dir):
